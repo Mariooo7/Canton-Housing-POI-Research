@@ -1155,6 +1155,7 @@ project/plugins/project/
 /.anjuta/
 /.anjuta_sym_db.db
 
+
 ### NetBeans template
 **/nbproject/private/
 **/nbproject/Makefile-*.mk
@@ -1245,5 +1246,8 @@ abstract.record*
 
 ### GPG template
 secring.*
+
+# 忽略配置文件
+config/config.py
 
 
