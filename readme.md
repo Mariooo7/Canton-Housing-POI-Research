@@ -75,7 +75,7 @@ graph LR
 
 `````bash
 # 克隆仓库
-git clone https://github.com/your-username/canton-housing-poi-research.git
+git clone https://github.com/Mariooo7/Canton-Housing-POI-Research.git
 cd canton-housing-poi-research
 
 # 创建并激活conda环境
